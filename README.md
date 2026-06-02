@@ -23,7 +23,7 @@
 ## About
 
 MS Computer Science student at **SUNY Buffalo** · Graduating December 2026  
-I turn messy data into clear answers — clinical datasets, image data, large-scale trip records.
+I turn messy data into clear answers.
 
 | | |
 |---|---|
