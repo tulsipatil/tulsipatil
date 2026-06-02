@@ -1,14 +1,75 @@
-<h1 align="center">Hi 👋, I'm Tulsi</h1>
-<!-- <h3 align="center">Final Year Computer Science Undergrad</h3> -->
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tulsipatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulsipatil" height="30" width="40" /></a>
-</p>
+# Tulsi Patil
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Data Analyst · Machine Learning · Python · SQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tulsipatil&show_icons=true&locale=en&layout=compact" alt="tulsipatil" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tulsipatil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tulsipatil)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulsipatil24@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tulsipatil&show_icons=true&locale=en" alt="tulsipatil" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+</div>
+
+---
+
+## About
+
+MS Computer Science student at **SUNY Buffalo** · Graduating December 2026  
+I turn messy data into clear answers — clinical datasets, image data, large-scale trip records.
+
+| | |
+|---|---|
+| **Published** | Springer LNEE, Vol. 1297 (2025) — CKD detection using ML |
+| **Industry** | Data & ML Intern · Indian Institute of Technology Hyderabad |
+| **Recognition** | Grace Hopper Celebration Scholar 2024 · Generation Google Scholar 2023 (Top 55, Asia Pacific) |
+
+---
+
+## Projects
+
+### Lung Disease Detection — 97.70% Accuracy
+Analyzed 5,863 pediatric chest X-rays. Benchmarked 5 architectures. Custom CNN beat every pretrained model by 10+ points. Grad-CAM confirmed the model looks at the right parts of the lung.
+
+**Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `Scikit-learn`  
+**Repo:** [LungsDiseaseDetection](https://github.com/tulsipatil/LungsDiseaseDetection)
+
+---
+
+### Chronic Kidney Disease Prediction — 96.25% Accuracy · Published
+Reduced 24 clinical variables to 10 key predictors using RFE. Built and compared 6 models. Deployed as a Flask app for real-time clinical predictions. Published in Springer.
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `Seaborn` `Flask`  
+**Repo:** [CKD Prediction](https://github.com/tulsipatil/Chronic_Kidney_Disease_Prediction_Jupyter_Notebook)
+
+---
+
+### NYC Taxi Data Analysis — AUC 0.99 *(in progress)*
+Analyzing 3M+ trip records in PySpark. Fare classification, tip prediction, scalable data cleaning pipeline across millions of Parquet records.
+
+**Stack:** `PySpark` `SQL` `Spark MLlib` `Hadoop` `Pandas`
+
+---
+
+## Skills
+
+```
+Languages       Python · SQL · Bash
+Analysis        Pandas · NumPy · Scikit-learn · EDA · Feature Engineering
+ML & DL         TensorFlow · Keras · OpenCV · PySpark · Model Evaluation
+Visualization   Tableau · Power BI · Matplotlib · Seaborn
+Tools           Git · GitHub · Flask · Docker · Apache Spark · Hadoop
+```
+
+---
+
+<div align="center">
+
+</div>
