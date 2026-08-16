@@ -51,7 +51,7 @@ Reduced 24 clinical variables to 10 key predictors using RFE. Built and compared
 
 ---
 
-### NYC Taxi Data Analysis — AUC 0.99 *(in progress)*
+### NYC Taxi Data Analysis — AUC 0.99
 Analyzing 3M+ trip records in PySpark. Fare classification, tip prediction, scalable data cleaning pipeline across millions of Parquet records.
 
 **Stack:** `PySpark` `SQL` `Spark MLlib` `Hadoop` `Pandas`
