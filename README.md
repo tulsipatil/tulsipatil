@@ -2,7 +2,7 @@
 
 MS Computer Science & Engineering candidate at the University at Buffalo, focused on data engineering and data analytics. Below is an overview of my six core portfolio projects, spanning real-time streaming, batch orchestration, data quality, and business intelligence.
 
-📧 tulsipatil24@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/tulsipatil) &nbsp;|&nbsp; [GitHub](https://github.com/tulsipatil)
+tulsipatil24@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/tulsipatil) &nbsp;|&nbsp; [GitHub](https://github.com/tulsipatil)
 
 ---
 
